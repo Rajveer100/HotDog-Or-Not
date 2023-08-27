@@ -14,3 +14,5 @@ The app will required `permission` to access the camera / photo library as a `pr
 
 Here's a brief visual:
 
+<img src="Resources/HotDog-Gif.gif" />
+<img src="Resources/Not-HotDog-Gif.gif" />
